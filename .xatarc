@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Amarachi-Iheanacho-s-workspace-u3bis1.us-east-1.xata.sh/db/Product-review",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
